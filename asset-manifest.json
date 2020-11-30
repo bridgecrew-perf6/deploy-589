@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.34de6062.chunk.css",
+    "main.js": "/deploy/static/js/main.df16e93f.chunk.js",
+    "main.js.map": "/deploy/static/js/main.df16e93f.chunk.js.map",
+    "runtime~main.js": "/deploy/static/js/runtime~main.9c98c2a1.js",
+    "runtime~main.js.map": "/deploy/static/js/runtime~main.9c98c2a1.js.map",
+    "static/js/2.fdc148d8.chunk.js": "/deploy/static/js/2.fdc148d8.chunk.js",
+    "static/js/2.fdc148d8.chunk.js.map": "/deploy/static/js/2.fdc148d8.chunk.js.map",
+    "index.html": "/deploy/index.html",
+    "precache-manifest.c69ea2fcd4c54090f9c87d0794c5b874.js": "/deploy/precache-manifest.c69ea2fcd4c54090f9c87d0794c5b874.js",
+    "service-worker.js": "/deploy/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/deploy/static/css/main.34de6062.chunk.css.map",
+    "static/media/Entypo.ttf": "/deploy/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/deploy/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/deploy/static/media/Feather.ca9ce9ff.ttf",
+    "static/media/FontAwesome.ttf": "/deploy/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Imagecard-bedtime.png": "/deploy/static/media/Imagecard-bedtime.92de2dbc.png",
+    "static/media/Imagecard-knowYourEnergy.png": "/deploy/static/media/Imagecard-knowYourEnergy.d661295e.png",
+    "static/media/Ionicons.ttf": "/deploy/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/deploy/static/media/MaterialCommunityIcons.6acc7d6c.ttf",
+    "static/media/MaterialIcons.ttf": "/deploy/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/deploy/static/media/Octicons.8e7f807e.ttf",
+    "static/media/Path_113.png": "/deploy/static/media/Path_113.18cb71ff.png",
+    "static/media/Shape-background.png": "/deploy/static/media/Shape-background.41bcd05a.png",
+    "static/media/Shape-background1.png": "/deploy/static/media/Shape-background1.41bcd05a.png",
+    "static/media/SimpleLineIcons.ttf": "/deploy/static/media/SimpleLineIcons.d2285965.ttf"
+  }
+}
